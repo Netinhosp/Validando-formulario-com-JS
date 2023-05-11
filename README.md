@@ -1,1 +1,1 @@
-# Validando-formulario-com-JS
+# Validando formulário e capturando foto do usuário com JavaScript
